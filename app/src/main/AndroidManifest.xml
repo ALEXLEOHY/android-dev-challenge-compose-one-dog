@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidDevChallenge">
         <activity
-            android:name=".DrgonDetail"
+            android:name=".DragonDetailActivity"
             android:exported="true"
             android:label="@string/title_activity_drgon_detail"
             android:theme="@style/Theme.AndroidDevChallenge.NoActionBar"></activity>
